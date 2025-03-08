@@ -28,9 +28,13 @@ Data Cleaning & Structuring for accuracy
 
 Business Impact
 This dashboard helps coffee shop owners:
+
 ✅ Identify best-selling products
+
 ✅ Optimize staffing and resources
+
 ✅ Track business performance over time
+
 ✅ Make data-driven decisions for profitability
 
 About Me
